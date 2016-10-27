@@ -2,7 +2,7 @@
 
 This article highlights the factors which control BLE throughput when using GATT and the knobs you will need to turn to maximize it. 
 
-When trying to learn about BLE throughput, I was frustrated by the lack of good crib notes on the topic ... so that is what this article sets out to do!
+When trying to learn about BLE throughput, I was frustrated by the lack of good notes on the topic ... so that is what this article sets out to do!
 
 If you are trying to improve the throughput of your BLE application or just want to understand more about the BLE protocol stack in general, please read on!
 
