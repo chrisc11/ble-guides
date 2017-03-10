@@ -1,4 +1,4 @@
-# Reverse Enginnering reasoning for iOS BLE MTU sizes
+# Reverse Engineering reasoning for iOS BLE MTU sizes
 
 Starting with iOS10, the ATT MTU size negotiated is 185 bytes. Prior to that it was 158 bytes. While these numbers may initially seem random, read on to understand how they are actually quite clever!
 
